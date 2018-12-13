@@ -1,0 +1,6 @@
+projectKey=Soanr:project
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/Soanr:project
+ceTaskId=AWcb46r9WNzgCcKHTg67
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWcb46r9WNzgCcKHTg67
